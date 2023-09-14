@@ -1,4 +1,4 @@
-[![MasterHead](https://images.hdqwalls.com/wallpapers/among-trees-night-is-coming-ox.jpg)
+
 <h1 align="center">Hi, I'm Berat Hazer</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
