@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berathazer&" alt="berathazer" /></p>
 
-![snake gif](https://github.com/berathazer/berathazer/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/berathazer/berathazer/blob/output/github-contribution-grid-snake.svg)
