@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Berat Hazer</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [nextjs-discord-clone](https://github.com/berathazer/nextjs-discord-clone)
+- 🔭 I’m currently working on [Online Education Platform](https://github.com/berathazer/graduation-project)
 
 - 🌱 I’m currently learning **NextJS**
 
