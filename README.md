@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi, I'm Berat Hazer</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=A+passionate+fullstack+developer+from+Turkey" alt="Typing Animation" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=berathazer&color=blue&style=for-the-badge&label=profile%20views)
 
 - 🔭 I’m currently working on **enterprise-level projects**, including:  
   - Backend development using **Node.js and Express** .  
@@ -79,6 +83,18 @@
          alt="fastify" width="40" height="40"/>
   </a>
 
+  <!-- Socket.IO -->
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" 
+         alt="socket.io" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         alt="docker" width="40" height="40"/>
+  </a>
+
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
@@ -126,6 +142,13 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
          alt="mssql" width="40" height="40"/>
   </a>
+
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
+         alt="spring-boot" width="40" height="40"/>
+  </a>
+
   
   <!-- Redis -->
   <a href="https://redis.io" target="_blank" rel="noreferrer">
@@ -186,10 +209,55 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
          alt="git" width="40" height="40"/>
   </a>
+
+  <!-- Semgrep -->
+  <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
+    <img src="https://semgrep.dev/favicon.ico" 
+         alt="semgrep" width="40" height="40"/>
+  </a>
+
+  <!-- Sentry -->
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" 
+         alt="sentry" width="40" height="40"/>
+  </a>
+
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353935/jira.svg" 
+         alt="jira" width="40" height="40"/>
+  </a>
+
 </p>
 
 
 ---
+### GitHub Stats
+<p align="start">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=berathazer&show_icons=true&locale=en&theme=radical">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=berathazer&show_icons=true&locale=en&theme=default">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=berathazer&show_icons=true&locale=en&theme=default" 
+      alt="berathazer Stats" height="200">
+  </picture>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=berathazer&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=berathazer&show_icons=true&locale=en&layout=compact&theme=default&langs_count=8">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=berathazer&show_icons=true&locale=en&layout=compact&theme=default&langs_count=8" 
+      alt="Top Languages" height="200">
+  </picture>
+</p>
+
 
 ✨ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/berathazer) or reach out via **email** at berathazer371@gmail.com.  
 Let's build something amazing together! 🚀
